@@ -5,7 +5,7 @@
 
 ## Compatibility
 
-Tested with Daikin BRP051A41 Wi-Fi Interface
+Testing with Daikin BRP051A41 Wi-Fi Interface
 ## Usage
 
 see example.py for runnable example
