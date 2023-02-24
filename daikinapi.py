@@ -13,7 +13,7 @@ class Daikin:
     Class to get information from Daikin Wireless LAN Connecting Adapter
     """
 
-    _CONTROL_FIELDS = ["f_dir", "f_rate", "mode", "pow", "shum", "stemp"]
+    _CONTROL_FIELDS = ["mode", "pow", "shum", "stemp"]
     """list of fields that need to be defined for a change request"""
 
     ATTRIBUTES = [
